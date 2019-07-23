@@ -1,6 +1,7 @@
 {
   "name": "custom-tooltips",
-  "version": "0.0.0",
+  "author": "Alfe Clemencio <aclemenc@uwaterloo.ca>",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -43,5 +44,20 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.",
+  "main": "\"\"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poetic-grammer/angular-simple-tooltips.git"
+  },
+  "keywords": [
+    "tooltip",
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Poetic-grammer/angular-simple-tooltips/issues"
+  },
+  "homepage": "https://github.com/Poetic-grammer/angular-simple-tooltips#readme"
 }
